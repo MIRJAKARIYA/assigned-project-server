@@ -1,0 +1,68 @@
+[
+    {
+
+        "name": "Americano Coffee",
+        "price": 650,
+        "chef": "Mr. Matin Paul",
+        "supplier": "Cappu Authorizer",
+        "taste": "Sweet and hot",
+        "category": "Americano",
+        "details": "Espresso with hot water",
+        "img": "https://i.ibb.co/PGqMPr9/11.png"
+    },
+    {
+
+        "name": "Black Coffee",
+        "price": 550,
+        "chef": "Mr. Nibra Sweden",
+        "supplier": "Cappa Tester",
+        "taste": "Sweet and cold",
+        "category": "Black",
+        "details": "Brewed without the addition of additives",
+        "img": "https://i.ibb.co/nPy4NMY/12.png"
+    },
+    {
+ 
+        "name": "Espresso Coffee",
+        "price": 790,
+        "chef": "Mrs. Morisha",
+        "supplier": "Cappa Tester",
+        "taste": "Hot and cold",
+        "category": "Espresso",
+        "details": "Finely-ground coffee beans",
+        "img": "https://i.ibb.co/Mg0HhBB/13.png"
+    },
+    {
+
+        "name": "Cappuccino Coffee",
+        "price": 877,
+        "chef": "Mr. Moruti",
+        "supplier": "Cappico Enterprise",
+        "taste": "Tasty and cold",
+        "category": "Cappuccino",
+        "details": "Prepared with steamed milk foam",
+        "img": "https://i.ibb.co/qnhMj67/14.png"
+    },
+    {
+
+        "name": "Macchiato Coffee",
+        "price": 565,
+        "chef": "Mr. Moruti",
+        "supplier": "Cappico Enterprise",
+        "taste": "Tasty and cold",
+        "category": "Macchiato",
+        "details": "Prepared with steamed milk foam",
+        "img": "https://i.ibb.co/pvJNns0/15.png"
+    },
+    {
+
+        "name": "Decaf Coffee",
+        "price": 455,
+        "chef": "Mr. Moruti",
+        "supplier": "Cappico Enterprise",
+        "taste": "Tasty and cold",
+        "category": "Decaf",
+        "details": "Prepared with steamed milk foam",
+        "img": "https://i.ibb.co/tDhHw1L/16.png"
+    }
+]
